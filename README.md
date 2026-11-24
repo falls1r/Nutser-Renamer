@@ -1,4 +1,4 @@
-# Nutser Renamer ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+# Nutser Renamer ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Утилита для массового изменения содержимого в текстовых файлах любых типов. 
 Программа помогает быстро находить и заменять текст, не открывая файлы по одному.
